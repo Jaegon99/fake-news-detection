@@ -173,4 +173,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# Too large to be stored in git
 data/
+models/
