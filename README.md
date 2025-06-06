@@ -50,16 +50,11 @@ fake_news_detection/
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/fake_news_detection.git
+    git clone https://github.com/Jaegon99/fake-news-detection.git
     cd fake_news_detection
+    pip install .  
     ```
-
-2. **Install dependencies**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Explore the notebooks**
+2. **Explore the notebooks**
     - Start with `01_EDA.ipynb` for data exploration.
     - Proceed through preprocessing, feature engineering, modeling, and evaluation.
 
